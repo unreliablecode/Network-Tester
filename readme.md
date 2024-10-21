@@ -1,6 +1,6 @@
 # Network Tester
 ![image](https://github.com/user-attachments/assets/3c7a386c-68af-4ad3-8516-899f1ebef66e)
-A **C# Console Application** that measures network performance to a user-specified IP address. This tool calculates **Latency**, **Round Trip Time (RTT)**, **Jitter**, **Ping**, and **Traceroute**. 
+### A **C# Console Application** that measures network performance to a user-specified IP address. This tool calculates **Latency**, **Round Trip Time (RTT)**, **Jitter**, **Ping**, and **Traceroute**. 
 
 ## Features
 - **Ping Test**: Measures RTT and calculates average latency.
